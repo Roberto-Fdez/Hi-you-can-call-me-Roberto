@@ -1,7 +1,4 @@
-# Hi-you-can-call-me-Roberto
-![Descripción](https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif)
-
-# Hi, I'm Roberto! 🎨💻
+# Hi-you-can-call-me-Roberto 🎨💻
 
 I'm a passionate artist and developer born in 2005. My main interests are **animation** and **illustration**, but I also have a strong background in technology.
 
