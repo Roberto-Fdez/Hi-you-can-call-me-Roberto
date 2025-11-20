@@ -1,6 +1,6 @@
 # Hi-you-can-call-me-Roberto 🎨💻
 
-I'm a passionate developer born in 2005. My main interests are **animation** and **illustration**, but I also have a strong background in technology.
+I'm a passionate developer born in 2005. My main interests are **development** and **management**, but I also have a strong background in technology.
 
 🎓 **Education:**  
 - 📡 Studied **Networks and Microcomputer Systems** (2023-2024).  
