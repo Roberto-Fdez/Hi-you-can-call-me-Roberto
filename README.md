@@ -4,7 +4,8 @@ I'm a passionate developer born in 2005. My main interests are **development** a
 
 🎓 **Education:**  
 - 📡 Studied **Networks and Microcomputer Systems** (2023-2024).  
-- 💻 Currently studying **Multiplatform Application Development (DAM)** (2025).  
+- 💻 Currently studying **Multiplatform Application Development (DAM)** (2025-2026).
+- 😉 computer engineering student at UIB.
 
 🔗 **Connect with me:**  
 - 📸 [Instagram](https://www.instagram.com/roberfdez_05/)  
